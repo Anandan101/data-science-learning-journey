@@ -1,6 +1,6 @@
 # Data Science Learning Journey
 
-Hello! I am Anandan.
+Hello! I am  A P Anandan.
 
 I am currently completing my MSc in Applied Data Science from SRM Institute of Science and Technology (SRMIST).
 
